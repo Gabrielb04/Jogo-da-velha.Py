@@ -7,6 +7,9 @@ Este é um jogo da velha em Python, criado por Gabriel.
 
 
 ## Como Usar
+- baixe python em sua maquina
+- baixe o arquivo : https://github.com/Gabrielb04/Jogo-da-velha.Py/blob/main/jogo%20da%20velha.py
+- execute em sua area de trabalho
 
 ##  Requisitos
 Python 3.x
