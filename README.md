@@ -2,15 +2,9 @@
 
 Este é um jogo da velha em Python, criado por Gabriel.
 
-## Descrição
+## Captura de Tela
+![jogodvelha](https://github.com/Gabrielb04/Jogo-da-velha.Py/assets/166271886/dd91c123-d72c-47f6-8b65-36c08ab42bae)
 
-O jogo da velha é um jogo para duas pessoas, que jogam alternadamente, preenchendo cada um dos espaços vazios. Cada participante deve usar um símbolo (X ou O). O objetivo é vencer o adversário, formando primeiro uma linha com três símbolos iguais, seja ela na horizontal, vertical ou diagonal.
-
-## Funcionalidades
-
-- **Jogar:** Inicia uma partida do jogo da velha.
-- **Instruções:** Mostra as instruções do jogo.
-- **Encerrar:** Encerra o programa.
 
 ## Como Usar
 
